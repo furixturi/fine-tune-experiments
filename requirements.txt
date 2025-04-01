@@ -1,0 +1,7 @@
+ipykernel
+ipywidgets
+python-dotenv
+transformers
+trl
+peft
+math_verify
